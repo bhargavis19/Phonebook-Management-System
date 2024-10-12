@@ -45,12 +45,6 @@ This is a Java-based Contacts Management System that allows users to manage and 
    ```bash
    javac mainClass.java
 
-Run the application:
-
-```bash
-java mainClass
-
-
 ## Project Files
 
 - **Class Files:** Precompiled `.class` files are included for each corresponding `.java` file.
