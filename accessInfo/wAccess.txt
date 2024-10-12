@@ -1,0 +1,4 @@
+0 1
+1 0
+testerAC 0
+lakkshyag 0
